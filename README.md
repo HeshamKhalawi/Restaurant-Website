@@ -37,7 +37,7 @@ To install and run this application on your local machine, follow these steps:
 
 ## Usage
 
-To use the application, simply follow the on-screen instructions to browse the menu, add items to your basket, view your basket, and checkout. User information will be stored in cookies, so subsequent visits to the application will be faster and more convenient. To leave a comment or review on a meal, click on the meal and scroll to the bottom of the page.
+To use the application, simply browse the menu, add items to your basket, view your basket, and checkout. User information will be stored in cookies, so subsequent visits to the application will be faster and more convenient. To leave a comment or review on a meal, click on the meal and scroll to the bottom of the page.
 
 ## Contributing
 
